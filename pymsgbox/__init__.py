@@ -46,7 +46,7 @@ TKINTER_IMPORT_SUCCEEDED = True
 
 try:
     if RUNNING_PYTHON_2:
-        import Tkinter as tk
+        import tkinter as tk
     else:
         import tkinter as tk
 
